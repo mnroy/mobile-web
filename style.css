@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bg{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-style{
+   background-color: rgba(199, 148, 199, 0.883);
+   border-radius: 10px;
+   margin-top: 60px;
+   padding: 30px 50px;
+   text-align: center;
+}
+.carousel-style P{ 
+    color:  rgba(0, 0, 0, 0.575);
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.s-phone{
+    margin-top: 90px;
+    padding: 20px;
+}
+.s-phone img{
+    width: 75%;
+    margin: 0 auto;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px 2px lightgrey;
+}
+
+
+.laptop-style{
+    margin-top: 70px;
+    text-align: center;
+}
+
+
+.categories-style{
+    margin-top: 90px;
+    height: 600px;
+}
+
+
+.back-style{
+    box-shadow: 5px 5px 8px 1px lightgray;
+}
+
+
+.icon{
+    font-size: 30px;
+    color: white;
+}
+.icon a{
+    padding: 2px 10px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    height: 200px;
+}
